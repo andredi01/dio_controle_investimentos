@@ -9,7 +9,7 @@ O **InvestEasy** é um simulador financeiro construído em Excel, destinado a fa
 ## Funcionalidades Desenvolvidas
 
 ### 1. Criação do Banner 🎨
-- **Descrição:** Criação, com auxílio de IA, de um banner moderno com o logo do app "InvestEasy" [aqui](https://github.com/andredi01/dio_controle_investimentos/blob/main/InvestEasy.xlsx).
+- **Descrição:** Criação, com auxílio de IA, de um banner moderno com o logo do app "InvestEasy".
 - **Objetivo:** Oferecer uma identidade visual marcante e reforçar a temática financeira e o profissionalismo do simulador.
 
 ### 2. Tabelas de Apoio 📊
@@ -46,7 +46,7 @@ O **InvestEasy** é um simulador financeiro construído em Excel, destinado a fa
 
 ## Como Utilizar
 
-1. **Baixe a Planilha:** Faça o download do arquivo `InvestEasy.xlsx` e abra-o no Microsoft Excel.
+1. **Baixe a Planilha:** Faça o download do arquivo [InvestEasy](https://github.com/andredi01/dio_controle_investimentos/blob/main/InvestEasy.xlsx) e abra-o no Microsoft Excel.
 2. **Preencha os Dados:** Insira suas informações nos campos indicados (salário, investimento mensal, taxa de rendimento, tempo de investimento, etc.).
 3. **Visualize os Resultados:**
    - O simulador calcula automaticamente o total investido, o patrimônio acumulado e os dividendos mensais.
