@@ -9,7 +9,7 @@ O **InvestEasy** é um simulador financeiro construído em Excel, destinado a fa
 ## Funcionalidades Desenvolvidas
 
 ### 1. Criação do Banner 🎨
-- **Descrição:** Criação, com auxílio de IA, de um banner moderno com o logo do app "InvestEasy".
+- **Descrição:** Criação, com auxílio de IA, de um banner moderno com o logo do app "InvestEasy" [aqui](https://github.com/andredi01/dio_controle_investimentos/blob/main/InvestEasy.xlsx).
 - **Objetivo:** Oferecer uma identidade visual marcante e reforçar a temática financeira e o profissionalismo do simulador.
 
 ### 2. Tabelas de Apoio 📊
